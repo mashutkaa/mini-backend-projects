@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "commander": "^13.1.0",
+        "inquirer": "^12.4.2"
+    },
+    "name": "task-tracker-cli",
+    "version": "1.0.0",
+    "description": "My Node Task Tracker CLI",
+    "bin": {
+        "task-cli": "./index.js"
+    },
+    "type": "module"
+}

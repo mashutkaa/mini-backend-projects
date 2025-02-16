@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2025-02-16 20:05:49.621968",
+        "updatedAt": null
+    },
+    {
+        "id": 2,
+        "description": "Write blog post",
+        "status": "in-progress",
+        "createdAt": "2025-02-16 20:05:49.621986",
+        "updatedAt": null
+    },
+    {
+        "id": 3,
+        "description": "Learn Node.js",
+        "status": "done",
+        "createdAt": "2025-02-16 20:05:49.621990",
+        "updatedAt": "2025-02-16 20:05:49.621993"
+    },
+    {
+        "id": 4,
+        "description": "Go for a run",
+        "status": "todo",
+        "createdAt": "2025-02-16 20:05:49.621996",
+        "updatedAt": null
+    },
+    {
+        "id": 5,
+        "description": "Clean the house",
+        "status": "in-progress",
+        "createdAt": "2025-02-16 20:05:49.621998",
+        "updatedAt": null
+    },
+    {
+        "id": 6,
+        "description": "read the book",
+        "status": "todo",
+        "createdAt": "2025-02-16T20:11:29.318Z",
+        "updatedAt": "2025-02-16T20:16:21.152Z"
+    }
+]
